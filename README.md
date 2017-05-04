@@ -1,6 +1,12 @@
 # BlackJack
 Game of blackjack
 
+/*
+*Jonathan Saldivar
+*ITSE 1302-011
+*Black Jack
+*Logic for the cards
+
  
  public class Card{
      

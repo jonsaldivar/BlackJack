@@ -1,6 +1,13 @@
 # BlackJack
 Game of blackjack
 
+/*
+*Jonathan Saldivar
+*ITSE 1302-011
+*Black Jack
+*Deck logic for Black Jack game.
+*/
+
 import java.util.ArrayList;
 
 public class Deck{
